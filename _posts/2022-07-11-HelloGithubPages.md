@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Hello Github Pages."
+title: "Who is RyuEojin ?"
 ---
 
-# KAIST16-Ryu의 첫 Github Pages Post 입니다.
+# KAIST 전기 및 전자공학부 16학번 유어진입니다.
