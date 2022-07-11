@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "SSD"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /SSD/_pages/2022-07-11-SSD.md/
   - title: "OS"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /OS/_pages/2022-07-11-OS.md/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
