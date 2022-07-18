@@ -18,3 +18,11 @@ docs:
         url: https://kaist16-ryu.github.io/SSD/
       - title: "OS"
         url: https://kaist16-ryu.github.io/OS/
+        
+tocs:
+  - title: Hello
+    children:
+      - title: "Good"
+        url: https://kaist16-ryu.github.io/SSD/
+      - title: "Hot
+        url: https://kaist16-ryu.github.io/OS/
