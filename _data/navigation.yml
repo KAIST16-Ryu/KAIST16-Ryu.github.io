@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: "Who is me?"
+  - title: WhoIsMe
     children:
       - title: "SSD"
         url: https://kaist16-ryu.github.io/SSD/
