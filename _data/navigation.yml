@@ -10,3 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: "Who is me?"
+    children:
+      - title: "SSD"
+        url: https://kaist16-ryu.github.io/SSD/
+      - title: "OS"
+        url: https://kaist16-ryu.github.io/OS/
