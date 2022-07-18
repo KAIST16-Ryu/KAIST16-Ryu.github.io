@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "SSD"
-    url: /SSD/_pages/2022-07-11-SSD.md/
+    url: https://kaist16-ryu.github.io/SSD/
   - title: "OS"
-    url: /OS/_pages/2022-07-11-OS.md/
+    url: https://kaist16-ryu.github.io/OS/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
