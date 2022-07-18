@@ -4,8 +4,8 @@ main:
     url: https://kaist16-ryu.github.io/SSD/
   - title: "OS"
     url: https://kaist16-ryu.github.io/OS/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Paper Review"
+    url: https://kaist16-ryu.github.io/PaperReview/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
